@@ -3,4 +3,4 @@
 - Tạo branch mới có tên là BAC_#<id task>
 - dev và push code lên branch này.
 - Khi hoàn thành thì push code lên branch tương ứng và chuyển trạng thái trên phần mềm để Project Manager kiểm tra lại.
-- Sau khi task đã được kiểm tra và được Project Manager duyyệt thì megre code về branch BAC_Master.
+- Sau khi task đã được kiểm tra và được Project Manager duyệt thì megre code về branch BAC_Master.
